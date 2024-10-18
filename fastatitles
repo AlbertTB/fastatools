@@ -1,1 +1,4 @@
 grep -h ">" $(find . -type f -name "*.fa" -or -name "*.fasta")
+
+#add something
+echo program finished
